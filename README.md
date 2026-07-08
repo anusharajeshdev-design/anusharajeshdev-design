@@ -136,7 +136,7 @@ AI-powered Requirement Intelligence Platform using **OpenAI** and **Retrieval-Au
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:anusharajeshkannan@gmail.com">
+  <a href="mailto:anusharajeshdev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   &nbsp;&nbsp;
