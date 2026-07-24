@@ -230,13 +230,7 @@ ReqIntel AI enables teams to upload requirement documents and interact with them
 
 # 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anusharajeshdev-design&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anusharajeshdev-design&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=anusharajeshdev-design&theme=tokyonight&hide_border=true" /> </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anusharajeshdev-design&theme=tokyo-night&hide_border=true" />
