@@ -1,54 +1,93 @@
-<h1 align="center">Hi 👋 I'm Anusha Rajesh</h1>
+# <h1 align="center">Hi 👋 I'm Anusha Rajesh</h1>
 
 <h3 align="center">
-Senior Software Engineer • .NET Backend Developer • AI Application Developer
+Senior Software Engineer • .NET Backend Developer • Enterprise AI Developer
 </h3>
 
 <p align="center">
-Building Enterprise AI Applications with ASP.NET Core, React & OpenAI
+Building scalable enterprise applications with <b>.NET, React, PostgreSQL, Docker & OpenAI</b>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-- 💼 Senior Software Engineer with **5+ years** of experience designing and building enterprise applications.
-- ⚡ Building modern applications using **.NET 10, ASP.NET Core, C#, SQL Server, REST APIs, and React**.
-- 🤖 Developing **AI-powered applications** with **OpenAI APIs** and **Retrieval-Augmented Generation (RAG)**.
-- 🚀 Creator of **Vendor Risk Lens** and **ReqIntel AI**, focused on solving real-world enterprise challenges.
-- 🌏 Actively preparing for **Software Engineering opportunities in Singapore**.
+* 💼 Senior Software Engineer with **5+ years** of experience designing and developing enterprise applications.
+* ⚡ Passionate about building scalable backend systems using **.NET 10, ASP.NET Core, C#, Entity Framework Core, PostgreSQL, SQL Server, REST APIs, and React**.
+* 🤖 Currently focused on **Generative AI**, **OpenAI APIs**, and **Retrieval-Augmented Generation (RAG)** to build intelligent enterprise solutions.
+* 🚀 Creator of **Vendor Risk Lens (VRL)**, an AI-powered Vendor Risk Management platform.
+* 📄 Creator of **ReqIntel AI**, an AI-driven Requirement Intelligence platform powered by OpenAI and RAG.
+* ☁️ Experienced with **Docker**, **GitHub Actions**, **Render**, and **Neon PostgreSQL** for modern cloud deployments.
+* 🌏 Actively preparing for Senior Software Engineering opportunities in **Singapore**.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,js,html,css" />
 </p>
 
-### ⚙️ Backend
+**Languages**
+
+* C#
+* JavaScript
+* HTML5
+* CSS3
+
+---
+
+## ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-### 🎨 Frontend
+**Backend Technologies**
+
+* .NET 10
+* ASP.NET Core
+* REST APIs
+* Entity Framework Core
+* JWT Authentication
+* Dependency Injection
+* Repository Pattern
+* Service Layer Architecture
+
+---
+
+## 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### 🗄️ Databases
+**Frontend**
+
+* React
+* React Router
+* Responsive UI
+* Vite
+
+---
+
+## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-**Database Expertise:** Microsoft SQL Server • PostgreSQL
+**Database Expertise**
 
-### 🤖 AI & Generative AI
+* PostgreSQL (Neon)
+* Microsoft SQL Server
+* Entity Framework Core
+
+---
+
+## 🤖 AI & Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -56,37 +95,73 @@ Building Enterprise AI Applications with ASP.NET Core, React & OpenAI
   <img src="https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge"/>
 </p>
 
-- OpenAI API Integration
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
+### AI Skills
 
-### 🛠️ Tools & DevOps
+* OpenAI API Integration
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* AI-powered Enterprise Search
+* Document Intelligence
+* AI Requirement Analysis
+* Executive Summary Generation
+
+---
+
+## 🛠️ DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,vscode" />
 </p>
 
+**Tools**
+
+* Docker
+* Git
+* GitHub
+* GitHub Actions
+* Postman
+* Visual Studio
+* VS Code
+* Render
+* Neon PostgreSQL
 
 ---
 
 # 🚀 Featured Projects
 
-## 🔹 Vendor Risk Lens (VRL)
+---
 
-Enterprise Vendor Risk Management Platform built with **.NET 10, ASP.NET Core, React, SQL Server & Docker**.
+# 🔹 Vendor Risk Lens (VRL)
 
-### ✨ Features
+**AI-powered Enterprise Vendor Risk Management Platform**
 
-- 🔐 JWT Authentication & Role-Based Authorization
-- 🏢 Vendor & Incident Management
-- 📊 Executive Dashboard & KPI Analytics
-- 📝 Enterprise Audit Logging
-- 🔍 Advanced Search & Filtering
-- 🤖 AI-powered Risk Assessment *(Coming Soon)*
+Vendor Risk Lens helps organizations manage vendors, incidents, compliance, and operational risks while leveraging AI for faster decision-making.
 
-**Tech Stack**
+### ✨ Key Features
 
-` .NET 10 ` ` ASP.NET Core ` ` React ` ` SQL Server ` ` Docker ` ` JWT `
+* 🔐 JWT Authentication & Role-Based Authorization
+* 👥 User Management
+* 🏢 Vendor Management
+* 🚨 Incident Management
+* 📊 Executive Dashboard & KPI Analytics
+* 📝 Enterprise Audit Timeline
+* 🔍 Advanced Search & Filtering
+* 📤 Excel Export
+* 🤖 AI Executive Summary
+* 🧠 Risk Lens AI Assistant
+* ☁️ Cloud Deployment using Render & Neon PostgreSQL
+
+### Tech Stack
+
+`.NET 10`
+`ASP.NET Core`
+`Entity Framework Core`
+`React`
+`PostgreSQL`
+`OpenAI`
+`Docker`
+`JWT`
+`REST APIs`
 
 <p>
   <a href="https://github.com/anusharajeshdev-design/vendor-risk-lens">
@@ -96,21 +171,31 @@ Enterprise Vendor Risk Management Platform built with **.NET 10, ASP.NET Core, R
 
 ---
 
-## 🔹 ReqIntel AI
+# 🔹 ReqIntel AI
 
-AI-powered Requirement Intelligence Platform using **OpenAI** and **Retrieval-Augmented Generation (RAG)**.
+**AI-powered Requirement Intelligence Platform**
 
-### ✨ Features
+ReqIntel AI enables teams to upload requirement documents and interact with them using natural language through Retrieval-Augmented Generation (RAG).
 
-- 📄 Upload PDF & DOCX Requirement Documents
-- 🤖 AI-powered Conversational Chat
-- 🔍 Semantic Search
-- 🧠 AI Requirement Analysis
-- 📚 Retrieval-Augmented Generation (RAG)
+### ✨ Key Features
 
-**Tech Stack**
+* 📄 Upload PDF & DOCX Documents
+* 🤖 AI Conversational Assistant
+* 📚 Retrieval-Augmented Generation (RAG)
+* 🔍 Semantic Search
+* 🧠 AI Requirement Analysis
+* 📝 Requirement Summarization
+* ⚡ Enterprise Knowledge Retrieval
 
-` .NET 10 ` ` ASP.NET Core ` ` React ` ` PostgreSQL ` ` OpenAI ` ` RAG `
+### Tech Stack
+
+`.NET 10`
+`ASP.NET Core`
+`React`
+`PostgreSQL`
+`OpenAI`
+`Entity Framework Core`
+`RAG`
 
 <p>
   <a href="https://github.com/anusharajeshdev-design/reqintel-ai">
@@ -118,29 +203,53 @@ AI-powered Requirement Intelligence Platform using **OpenAI** and **Retrieval-Au
   </a>
 </p>
 
+---
+
+# ☁️ Deployment
+
+| Project          | Status                |
+| ---------------- | --------------------- |
+| Vendor Risk Lens | ✅ Deployed            |
+| Backend Hosting  | ✅ Render              |
+| Database         | ✅ Neon PostgreSQL     |
+| ReqIntel AI      | 🚧 Active Development |
 
 ---
 
-# 📊 GitHub Analytics
+# 📚 Currently Exploring
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Vector Databases
+* Prompt Engineering
+* Enterprise AI Architecture
+* Cloud-native .NET Applications
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=anusharajeshdev-design&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anusharajeshdev-design&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anusharajeshdev-design&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anusharajeshdev-design&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
+# 🤝 Let's Connect
+
+<p align="center"> <a href="https://www.linkedin.com/in/anusha-rajeshkannan-485a83155"> <img src="https://skillicons.dev/icons?i=linkedin" height="40" /> </a> &nbsp;&nbsp; <a href="mailto:anusharajeshdev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40" /> </a> &nbsp;&nbsp; <a href="https://github.com/anusharajeshdev-design"> <img src="https://skillicons.dev/icons?i=github" height="40" /> </a> </p>
+
+---
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/anusha-rajeshkannan-485a83155">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:anusharajeshdev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/anusharajeshdev-design">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories and connecting with me.
 </p>
