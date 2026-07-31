@@ -146,14 +146,13 @@ Vendor Risk Lens is a full-stack enterprise platform that enables organizations 
 ### ✨ Features
 
 - 🔐 Secure JWT Authentication & Role-Based Authorization
-- 👥 User & Role Management
+- 👥 User Management
 - 🏢 Vendor Lifecycle Management
 - 🚨 Incident Tracking & Resolution
 - 📊 Executive Dashboard with KPI Analytics
 - 📈 Risk Monitoring & Reporting
 - 📝 Complete Audit History & Activity Tracking
 - 🔍 Advanced Search & Filtering
-- 📤 Excel Export
 - 🤖 AI Executive Summary Generation
 - 💬 Risk Lens AI Assistant
 - ☁️ Cloud Deployment using Render & Neon PostgreSQL
